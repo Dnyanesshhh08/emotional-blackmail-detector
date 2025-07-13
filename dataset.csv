@@ -1,0 +1,1001 @@
+id,text,label,source,length,has_threat,sentiment_hint
+David_000,"Whatever. It’s your life.  You know that, right?",passive_aggressive,David,48,False,negative
+Jack_001,Nothing. I’m fine.  Just saying.,silent_treatment,Jack,32,False,negative
+Bob_002,Thanks for remembering I exist.  Please.,passive_aggressive,Bob,40,False,negative
+Jack_003,You're always starting fights.  Okay?,blame_shifting,Jack,37,False,negative
+Eve_004,You'll regret this.  Please.,threat,Eve,28,True,negative
+Eve_005,"You made me act this way.  You know that, right?",blame_shifting,Eve,48,False,negative
+Ivy_006,"After everything I did for you, this is how you repay me?",guilt_trip,Ivy,57,False,negative
+Charlie_007,You’re too sensitive.,gaslighting,Charlie,21,False,negative
+Eve_008,"Let’s go out for dinner.  You know that, right?",neutral,Eve,47,False,neutral
+Charlie_009,You'll be sorry you ever left.  Just saying.,threat,Charlie,44,True,negative
+Charlie_010,"Thanks for remembering I exist.  You know that, right?",passive_aggressive,Charlie,54,False,negative
+David_011,Don't talk to me.  Just saying.,silent_treatment,David,31,False,negative
+Henry_012,That never happened. You're imagining things.,gaslighting,Henry,45,False,negative
+Charlie_013,You'll regret this.,threat,Charlie,19,True,negative
+Bob_014,I hope you're proud of yourself.,passive_aggressive,Bob,32,False,negative
+Grace_015,It’s always your fault.,blame_shifting,Grace,23,False,negative
+Jack_016,I hope you're proud of yourself.  Okay?,passive_aggressive,Jack,39,False,negative
+Jack_017,"Sure, I’m not upset. Why would I be?  Okay?",passive_aggressive,Jack,43,False,negative
+Grace_018,"I don’t feel like talking.  You know that, right?",silent_treatment,Grace,49,False,negative
+Grace_019,"You made me act this way.  You know that, right?",blame_shifting,Grace,48,False,negative
+Grace_020,"You never appreciate anything I do.  You know that, right?",guilt_trip,Grace,58,False,negative
+Alice_021,Nothing. I’m fine.  Please.,silent_treatment,Alice,27,False,negative
+Jack_022,"If you leave me, I’ll hurt myself.",threat,Jack,34,True,negative
+David_023,You made me act this way.  Just saying.,blame_shifting,David,39,False,negative
+Ivy_024,"After everything I did for you, this is how you repay me?  You know that, right?",guilt_trip,Ivy,80,False,negative
+David_025,"You always overreact.  You know that, right?",gaslighting,David,44,False,negative
+Grace_026,"Sure, I’m not upset. Why would I be?  Please.",passive_aggressive,Grace,45,False,negative
+Henry_027,You'll be sorry you ever left.  Okay?,threat,Henry,37,True,negative
+Ivy_028,"After everything I did for you, this is how you repay me?  Okay?",guilt_trip,Ivy,64,False,negative
+Grace_029,I’m heading to the gym.,neutral,Grace,23,False,neutral
+Jack_030,Nothing. I’m fine.  Just saying.,silent_treatment,Jack,32,False,negative
+Eve_031,I guess I just don't matter to you anymore.  Please.,guilt_trip,Eve,52,False,negative
+Jack_032,"I don’t feel like talking.  You know that, right?",silent_treatment,Jack,49,False,negative
+Jack_033,Good morning! Have a great day.,neutral,Jack,31,False,neutral
+Henry_034,"I don’t feel like talking.  You know that, right?",silent_treatment,Henry,49,False,negative
+Henry_035,Let’s go out for dinner.  Just saying.,neutral,Henry,38,False,neutral
+Alice_036,You always overreact.  Okay?,gaslighting,Alice,28,False,negative
+Bob_037,"Sure, I’m not upset. Why would I be?",passive_aggressive,Bob,36,False,negative
+Eve_038,Don't talk to me.,silent_treatment,Eve,17,False,negative
+Henry_039,Nothing. I’m fine.  Just saying.,silent_treatment,Henry,32,False,negative
+Alice_040,"If you hadn’t done that, I wouldn’t be like this.",blame_shifting,Alice,49,False,negative
+Alice_041,You're always starting fights.,blame_shifting,Alice,30,False,negative
+Henry_042,Don't talk to me.  Please.,silent_treatment,Henry,26,False,negative
+Ivy_043,You’re the reason everything is ruined.  Okay?,blame_shifting,Ivy,46,False,negative
+Charlie_044,"If you leave me, I’ll hurt myself.  Just saying.",threat,Charlie,48,True,negative
+David_045,You always overreact.  Please.,gaslighting,David,30,False,negative
+David_046,"What time will you be home?  You know that, right?",neutral,David,50,False,neutral
+Charlie_047,"If you leave me, I’ll hurt myself.",threat,Charlie,34,True,negative
+Charlie_048,What time will you be home?  Please.,neutral,Charlie,36,False,neutral
+Frank_049,You'll be sorry you ever left.,threat,Frank,30,True,negative
+Bob_050,You always overreact.  Just saying.,gaslighting,Bob,35,False,negative
+Alice_051,Nothing. I’m fine.  Please.,silent_treatment,Alice,27,False,negative
+Eve_052,Nothing. I’m fine.  Please.,silent_treatment,Eve,27,False,negative
+Alice_053,That never happened. You're imagining things.  Please.,gaslighting,Alice,54,False,negative
+Eve_054,"You remember it wrong.  You know that, right?",gaslighting,Eve,45,False,negative
+Bob_055,Whatever. It’s your life.,passive_aggressive,Bob,25,False,negative
+Grace_056,"*ignores messages*  You know that, right?",silent_treatment,Grace,41,False,negative
+Henry_057,You made me act this way.  Please.,blame_shifting,Henry,34,False,negative
+Bob_058,You'll regret this.,threat,Bob,19,True,negative
+Henry_059,Don't talk to me.  Just saying.,silent_treatment,Henry,31,False,negative
+Bob_060,"If you leave me, I’ll hurt myself.",threat,Bob,34,True,negative
+Charlie_061,I don’t feel like talking.,silent_treatment,Charlie,26,False,negative
+Jack_062,"If you hadn’t done that, I wouldn’t be like this.  Okay?",blame_shifting,Jack,56,False,negative
+Jack_063,"I guess I just don't matter to you anymore.  You know that, right?",guilt_trip,Jack,66,False,negative
+Henry_064,You're always starting fights.  Just saying.,blame_shifting,Henry,44,False,negative
+David_065,"How was your day?  You know that, right?",neutral,David,40,False,neutral
+Ivy_066,You’re the reason everything is ruined.  Okay?,blame_shifting,Ivy,46,False,negative
+Bob_067,"You'll regret this.  You know that, right?",threat,Bob,42,True,negative
+Bob_068,How was your day?  Just saying.,neutral,Bob,31,False,neutral
+Ivy_069,You'll regret this.,threat,Ivy,19,True,negative
+Grace_070,Don’t blame me for what happens next.,threat,Grace,37,True,negative
+Eve_071,You always overreact.  Just saying.,gaslighting,Eve,35,False,negative
+Henry_072,You remember it wrong.  Okay?,gaslighting,Henry,29,False,negative
+Jack_073,That never happened. You're imagining things.  Please.,gaslighting,Jack,54,False,negative
+Grace_074,"I always put you first, and this is what I get?  Please.",guilt_trip,Grace,56,False,negative
+Charlie_075,"I always put you first, and this is what I get?",guilt_trip,Charlie,47,False,negative
+Ivy_076,You're always starting fights.  Okay?,blame_shifting,Ivy,37,False,negative
+Charlie_077,You'll be sorry you ever left.  Just saying.,threat,Charlie,44,True,negative
+Eve_078,That never happened. You're imagining things.  Just saying.,gaslighting,Eve,59,False,negative
+Eve_079,That never happened. You're imagining things.  Just saying.,gaslighting,Eve,59,False,negative
+Alice_080,You always overreact.  Just saying.,gaslighting,Alice,35,False,negative
+Henry_081,"What time will you be home?  You know that, right?",neutral,Henry,50,False,neutral
+Bob_082,I never said that. You’re making it up.,gaslighting,Bob,39,False,negative
+Ivy_083,I don’t feel like talking.,silent_treatment,Ivy,26,False,negative
+Grace_084,*ignores messages*  Okay?,silent_treatment,Grace,25,False,negative
+David_085,"Whatever. It’s your life.  You know that, right?",passive_aggressive,David,48,False,negative
+Grace_086,How was your day?  Please.,neutral,Grace,26,False,neutral
+Frank_087,Thanks for remembering I exist.  Please.,passive_aggressive,Frank,40,False,negative
+Charlie_088,"I've sacrificed so much, and you don't even care.  Just saying.",guilt_trip,Charlie,63,False,negative
+Henry_089,I hope you're proud of yourself.,passive_aggressive,Henry,32,False,negative
+David_090,"I've sacrificed so much, and you don't even care.",guilt_trip,David,49,False,negative
+Eve_091,Nothing. I’m fine.  Just saying.,silent_treatment,Eve,32,False,negative
+Frank_092,"If you leave me, I’ll hurt myself.  Okay?",threat,Frank,41,True,negative
+Bob_093,I guess I just don't matter to you anymore.  Just saying.,guilt_trip,Bob,57,False,negative
+Eve_094,I never said that. You’re making it up.,gaslighting,Eve,39,False,negative
+Jack_095,Good morning! Have a great day.  Just saying.,neutral,Jack,45,False,neutral
+Ivy_096,"You’re too sensitive.  You know that, right?",gaslighting,Ivy,44,False,negative
+Charlie_097,I hope you're proud of yourself.,passive_aggressive,Charlie,32,False,negative
+Frank_098,"I don’t feel like talking.  You know that, right?",silent_treatment,Frank,49,False,negative
+Frank_099,"I hope you're proud of yourself.  You know that, right?",passive_aggressive,Frank,55,False,negative
+Frank_100,I’m heading to the gym.,neutral,Frank,23,False,neutral
+Bob_101,"You never appreciate anything I do.  You know that, right?",guilt_trip,Bob,58,False,negative
+Ivy_102,What time will you be home?  Please.,neutral,Ivy,36,False,neutral
+Henry_103,"I’m heading to the gym.  You know that, right?",neutral,Henry,46,False,neutral
+Henry_104,"Don't talk to me.  You know that, right?",silent_treatment,Henry,40,False,negative
+Frank_105,I don’t feel like talking.,silent_treatment,Frank,26,False,negative
+Ivy_106,"Sure, I’m not upset. Why would I be?  You know that, right?",passive_aggressive,Ivy,59,False,negative
+Ivy_107,Nothing. I’m fine.  Just saying.,silent_treatment,Ivy,32,False,negative
+Grace_108,You made me act this way.  Okay?,blame_shifting,Grace,32,False,negative
+Ivy_109,You’re too sensitive.,gaslighting,Ivy,21,False,negative
+Charlie_110,I guess I just don't matter to you anymore.  Just saying.,guilt_trip,Charlie,57,False,negative
+Ivy_111,You made me act this way.  Just saying.,blame_shifting,Ivy,39,False,negative
+Charlie_112,I’m heading to the gym.,neutral,Charlie,23,False,neutral
+Henry_113,I hope you're proud of yourself.  Please.,passive_aggressive,Henry,41,False,negative
+Alice_114,Nothing. I’m fine.,silent_treatment,Alice,18,False,negative
+Henry_115,Fine. Do whatever you want.,passive_aggressive,Henry,27,False,negative
+Grace_116,"I always put you first, and this is what I get?  Just saying.",guilt_trip,Grace,61,False,negative
+Eve_117,You’re too sensitive.,gaslighting,Eve,21,False,negative
+Ivy_118,"...  You know that, right?",silent_treatment,Ivy,26,False,negative
+Grace_119,I guess I just don't matter to you anymore.  Okay?,guilt_trip,Grace,50,False,negative
+Ivy_120,Don’t blame me for what happens next.,threat,Ivy,37,True,negative
+Alice_121,"Sure, I’m not upset. Why would I be?  Just saying.",passive_aggressive,Alice,50,False,negative
+Alice_122,You think you can survive without me?,threat,Alice,37,False,negative
+Eve_123,"I always put you first, and this is what I get?  Just saying.",guilt_trip,Eve,61,False,negative
+Bob_124,You'll regret this.  Just saying.,threat,Bob,33,True,negative
+Frank_125,What time will you be home?  Okay?,neutral,Frank,34,False,neutral
+David_126,You always overreact.  Okay?,gaslighting,David,28,False,negative
+Ivy_127,"Thanks for remembering I exist.  You know that, right?",passive_aggressive,Ivy,54,False,negative
+Bob_128,You’re the reason everything is ruined.,blame_shifting,Bob,39,False,negative
+Charlie_129,"After everything I did for you, this is how you repay me?  Please.",guilt_trip,Charlie,66,False,negative
+Charlie_130,"You’re the reason everything is ruined.  You know that, right?",blame_shifting,Charlie,62,False,negative
+Jack_131,Fine. Do whatever you want.  Okay?,passive_aggressive,Jack,34,False,negative
+Ivy_132,Don’t blame me for what happens next.  Okay?,threat,Ivy,44,True,negative
+Charlie_133,"I’m heading to the gym.  You know that, right?",neutral,Charlie,46,False,neutral
+David_134,*ignores messages*,silent_treatment,David,18,False,negative
+David_135,I’m heading to the gym.,neutral,David,23,False,neutral
+Charlie_136,"Sure, I’m not upset. Why would I be?",passive_aggressive,Charlie,36,False,negative
+Alice_137,I don’t feel like talking.  Please.,silent_treatment,Alice,35,False,negative
+Frank_138,"You'll regret this.  You know that, right?",threat,Frank,42,True,negative
+David_139,Nothing. I’m fine.  Just saying.,silent_treatment,David,32,False,negative
+Frank_140,You think you can survive without me?  Just saying.,threat,Frank,51,False,negative
+Frank_141,"I always put you first, and this is what I get?  Please.",guilt_trip,Frank,56,False,negative
+Eve_142,Don't talk to me.,silent_treatment,Eve,17,False,negative
+Charlie_143,Let’s go out for dinner.  Okay?,neutral,Charlie,31,False,neutral
+Bob_144,Fine. Do whatever you want.  Just saying.,passive_aggressive,Bob,41,False,negative
+Frank_145,You made me act this way.  Please.,blame_shifting,Frank,34,False,negative
+Charlie_146,You never appreciate anything I do.  Please.,guilt_trip,Charlie,44,False,negative
+Eve_147,That never happened. You're imagining things.  Please.,gaslighting,Eve,54,False,negative
+David_148,I hope you're proud of yourself.  Just saying.,passive_aggressive,David,46,False,negative
+David_149,How was your day?,neutral,David,17,False,neutral
+Charlie_150,You always overreact.  Okay?,gaslighting,Charlie,28,False,negative
+Frank_151,You never appreciate anything I do.  Okay?,guilt_trip,Frank,42,False,negative
+David_152,Fine. Do whatever you want.  Just saying.,passive_aggressive,David,41,False,negative
+Grace_153,You think you can survive without me?  Just saying.,threat,Grace,51,False,negative
+Henry_154,*ignores messages*  Please.,silent_treatment,Henry,27,False,negative
+Henry_155,"If you hadn’t done that, I wouldn’t be like this.  Just saying.",blame_shifting,Henry,63,False,negative
+Frank_156,"Sure, I’m not upset. Why would I be?  Please.",passive_aggressive,Frank,45,False,negative
+Ivy_157,You remember it wrong.  Please.,gaslighting,Ivy,31,False,negative
+Ivy_158,"I always put you first, and this is what I get?  You know that, right?",guilt_trip,Ivy,70,False,negative
+Bob_159,It’s always your fault.,blame_shifting,Bob,23,False,negative
+Jack_160,"You'll regret this.  You know that, right?",threat,Jack,42,True,negative
+Grace_161,Fine. Do whatever you want.  Just saying.,passive_aggressive,Grace,41,False,negative
+Alice_162,"If you hadn’t done that, I wouldn’t be like this.  Okay?",blame_shifting,Alice,56,False,negative
+Alice_163,"I don’t feel like talking.  You know that, right?",silent_treatment,Alice,49,False,negative
+Frank_164,"You made me act this way.  You know that, right?",blame_shifting,Frank,48,False,negative
+Eve_165,You'll be sorry you ever left.  Just saying.,threat,Eve,44,True,negative
+Jack_166,You never appreciate anything I do.  Please.,guilt_trip,Jack,44,False,negative
+Alice_167,"Sure, I’m not upset. Why would I be?  Okay?",passive_aggressive,Alice,43,False,negative
+Bob_168,You made me act this way.  Just saying.,blame_shifting,Bob,39,False,negative
+Alice_169,"...  You know that, right?",silent_treatment,Alice,26,False,negative
+Bob_170,I never said that. You’re making it up.,gaslighting,Bob,39,False,negative
+Grace_171,"You'll regret this.  You know that, right?",threat,Grace,42,True,negative
+Ivy_172,"If you leave me, I’ll hurt myself.  You know that, right?",threat,Ivy,57,True,negative
+Frank_173,I never said that. You’re making it up.,gaslighting,Frank,39,False,negative
+Bob_174,Don't talk to me.  Okay?,silent_treatment,Bob,24,False,negative
+Bob_175,"You're always starting fights.  You know that, right?",blame_shifting,Bob,53,False,negative
+Bob_176,"You think you can survive without me?  You know that, right?",threat,Bob,60,False,negative
+Charlie_177,That never happened. You're imagining things.  Please.,gaslighting,Charlie,54,False,negative
+Bob_178,You’re the reason everything is ruined.,blame_shifting,Bob,39,False,negative
+Jack_179,Don't talk to me.  Please.,silent_treatment,Jack,26,False,negative
+Ivy_180,You’re the reason everything is ruined.,blame_shifting,Ivy,39,False,negative
+Henry_181,You think you can survive without me?  Okay?,threat,Henry,44,False,negative
+Henry_182,Nothing. I’m fine.  Okay?,silent_treatment,Henry,25,False,negative
+Frank_183,You're always starting fights.  Okay?,blame_shifting,Frank,37,False,negative
+Henry_184,Whatever. It’s your life.  Just saying.,passive_aggressive,Henry,39,False,negative
+Alice_185,Thanks for remembering I exist.  Just saying.,passive_aggressive,Alice,45,False,negative
+Ivy_186,Good morning! Have a great day.,neutral,Ivy,31,False,neutral
+Jack_187,You remember it wrong.  Just saying.,gaslighting,Jack,36,False,negative
+Grace_188,You made me act this way.  Please.,blame_shifting,Grace,34,False,negative
+Grace_189,You’re too sensitive.  Okay?,gaslighting,Grace,28,False,negative
+Henry_190,...  Okay?,silent_treatment,Henry,10,False,negative
+Henry_191,You’re the reason everything is ruined.  Please.,blame_shifting,Henry,48,False,negative
+Alice_192,What time will you be home?  Just saying.,neutral,Alice,41,False,neutral
+Eve_193,"After everything I did for you, this is how you repay me?  Just saying.",guilt_trip,Eve,71,False,negative
+Henry_194,You’re the reason everything is ruined.  Please.,blame_shifting,Henry,48,False,negative
+Henry_195,I never said that. You’re making it up.,gaslighting,Henry,39,False,negative
+David_196,I guess I just don't matter to you anymore.  Just saying.,guilt_trip,David,57,False,negative
+Frank_197,"After everything I did for you, this is how you repay me?  Please.",guilt_trip,Frank,66,False,negative
+Bob_198,You'll regret this.  Okay?,threat,Bob,26,True,negative
+David_199,"I always put you first, and this is what I get?",guilt_trip,David,47,False,negative
+Ivy_200,"Sure, I’m not upset. Why would I be?  Okay?",passive_aggressive,Ivy,43,False,negative
+Frank_201,You made me act this way.  Just saying.,blame_shifting,Frank,39,False,negative
+Charlie_202,I hope you're proud of yourself.  Okay?,passive_aggressive,Charlie,39,False,negative
+Eve_203,"I always put you first, and this is what I get?  Just saying.",guilt_trip,Eve,61,False,negative
+Ivy_204,I hope you're proud of yourself.  Okay?,passive_aggressive,Ivy,39,False,negative
+David_205,It’s always your fault.  Just saying.,blame_shifting,David,37,False,negative
+Frank_206,"It’s always your fault.  You know that, right?",blame_shifting,Frank,46,False,negative
+Ivy_207,"You’re the reason everything is ruined.  You know that, right?",blame_shifting,Ivy,62,False,negative
+Ivy_208,"Sure, I’m not upset. Why would I be?  Please.",passive_aggressive,Ivy,45,False,negative
+Eve_209,You never appreciate anything I do.  Please.,guilt_trip,Eve,44,False,negative
+David_210,You made me act this way.  Please.,blame_shifting,David,34,False,negative
+Charlie_211,You always overreact.  Just saying.,gaslighting,Charlie,35,False,negative
+Charlie_212,"Don't talk to me.  You know that, right?",silent_treatment,Charlie,40,False,negative
+Alice_213,"I've sacrificed so much, and you don't even care.  Okay?",guilt_trip,Alice,56,False,negative
+Bob_214,That never happened. You're imagining things.  Just saying.,gaslighting,Bob,59,False,negative
+Ivy_215,Nothing. I’m fine.  Just saying.,silent_treatment,Ivy,32,False,negative
+Ivy_216,Fine. Do whatever you want.  Okay?,passive_aggressive,Ivy,34,False,negative
+Henry_217,Good morning! Have a great day.  Okay?,neutral,Henry,38,False,neutral
+Charlie_218,"If you hadn’t done that, I wouldn’t be like this.  Please.",blame_shifting,Charlie,58,False,negative
+Jack_219,"Whatever. It’s your life.  You know that, right?",passive_aggressive,Jack,48,False,negative
+Grace_220,Let’s go out for dinner.  Please.,neutral,Grace,33,False,neutral
+Bob_221,I’m heading to the gym.  Please.,neutral,Bob,32,False,neutral
+Grace_222,You’re the reason everything is ruined.  Just saying.,blame_shifting,Grace,53,False,negative
+Grace_223,It’s always your fault.  Okay?,blame_shifting,Grace,30,False,negative
+Bob_224,"I never said that. You’re making it up.  You know that, right?",gaslighting,Bob,62,False,negative
+Alice_225,You'll regret this.  Just saying.,threat,Alice,33,True,negative
+Charlie_226,"If you leave me, I’ll hurt myself.  Please.",threat,Charlie,43,True,negative
+David_227,You think you can survive without me?,threat,David,37,False,negative
+Charlie_228,Don't talk to me.  Just saying.,silent_treatment,Charlie,31,False,negative
+David_229,I never said that. You’re making it up.,gaslighting,David,39,False,negative
+Bob_230,You made me act this way.  Okay?,blame_shifting,Bob,32,False,negative
+Frank_231,Thanks for remembering I exist.  Just saying.,passive_aggressive,Frank,45,False,negative
+Eve_232,That never happened. You're imagining things.,gaslighting,Eve,45,False,negative
+Charlie_233,"Whatever. It’s your life.  You know that, right?",passive_aggressive,Charlie,48,False,negative
+Frank_234,You made me act this way.  Okay?,blame_shifting,Frank,32,False,negative
+Bob_235,"Nothing. I’m fine.  You know that, right?",silent_treatment,Bob,41,False,negative
+Bob_236,Don't talk to me.  Just saying.,silent_treatment,Bob,31,False,negative
+David_237,You made me act this way.  Please.,blame_shifting,David,34,False,negative
+Ivy_238,You never appreciate anything I do.,guilt_trip,Ivy,35,False,negative
+Bob_239,I don’t feel like talking.  Just saying.,silent_treatment,Bob,40,False,negative
+Eve_240,"That never happened. You're imagining things.  You know that, right?",gaslighting,Eve,68,False,negative
+Bob_241,I’m heading to the gym.  Okay?,neutral,Bob,30,False,neutral
+Jack_242,I hope you're proud of yourself.  Okay?,passive_aggressive,Jack,39,False,negative
+Grace_243,You'll regret this.,threat,Grace,19,True,negative
+Ivy_244,"You're always starting fights.  You know that, right?",blame_shifting,Ivy,53,False,negative
+Ivy_245,"If you leave me, I’ll hurt myself.  Okay?",threat,Ivy,41,True,negative
+Henry_246,That never happened. You're imagining things.  Just saying.,gaslighting,Henry,59,False,negative
+David_247,It’s always your fault.  Please.,blame_shifting,David,32,False,negative
+Henry_248,I hope you're proud of yourself.  Just saying.,passive_aggressive,Henry,46,False,negative
+David_249,"Good morning! Have a great day.  You know that, right?",neutral,David,54,False,neutral
+Alice_250,"If you hadn’t done that, I wouldn’t be like this.  Okay?",blame_shifting,Alice,56,False,negative
+Eve_251,I guess I just don't matter to you anymore.  Okay?,guilt_trip,Eve,50,False,negative
+Jack_252,"You’re the reason everything is ruined.  You know that, right?",blame_shifting,Jack,62,False,negative
+Grace_253,You'll be sorry you ever left.  Okay?,threat,Grace,37,True,negative
+Jack_254,Whatever. It’s your life.  Please.,passive_aggressive,Jack,34,False,negative
+Eve_255,Good morning! Have a great day.,neutral,Eve,31,False,neutral
+Grace_256,Don’t blame me for what happens next.,threat,Grace,37,True,negative
+Ivy_257,"If you leave me, I’ll hurt myself.  You know that, right?",threat,Ivy,57,True,negative
+Eve_258,I don’t feel like talking.  Just saying.,silent_treatment,Eve,40,False,negative
+Henry_259,Nothing. I’m fine.,silent_treatment,Henry,18,False,negative
+Alice_260,What time will you be home?  Please.,neutral,Alice,36,False,neutral
+Ivy_261,"Thanks for remembering I exist.  You know that, right?",passive_aggressive,Ivy,54,False,negative
+Charlie_262,...  Please.,silent_treatment,Charlie,12,False,negative
+Bob_263,I don’t feel like talking.  Just saying.,silent_treatment,Bob,40,False,negative
+Alice_264,You never appreciate anything I do.  Okay?,guilt_trip,Alice,42,False,negative
+Bob_265,You think you can survive without me?  Just saying.,threat,Bob,51,False,negative
+Charlie_266,I hope you're proud of yourself.  Okay?,passive_aggressive,Charlie,39,False,negative
+Bob_267,Good morning! Have a great day.  Please.,neutral,Bob,40,False,neutral
+Eve_268,Don't talk to me.,silent_treatment,Eve,17,False,negative
+Jack_269,You think you can survive without me?  Okay?,threat,Jack,44,False,negative
+Eve_270,"You remember it wrong.  You know that, right?",gaslighting,Eve,45,False,negative
+Jack_271,Fine. Do whatever you want.  Okay?,passive_aggressive,Jack,34,False,negative
+Henry_272,"Sure, I’m not upset. Why would I be?  Okay?",passive_aggressive,Henry,43,False,negative
+Grace_273,Let’s go out for dinner.  Okay?,neutral,Grace,31,False,neutral
+Eve_274,You never appreciate anything I do.  Just saying.,guilt_trip,Eve,49,False,negative
+Frank_275,You remember it wrong.  Just saying.,gaslighting,Frank,36,False,negative
+Henry_276,Thanks for remembering I exist.,passive_aggressive,Henry,31,False,negative
+Ivy_277,"You’re the reason everything is ruined.  You know that, right?",blame_shifting,Ivy,62,False,negative
+Alice_278,"If you hadn’t done that, I wouldn’t be like this.  You know that, right?",blame_shifting,Alice,72,False,negative
+Henry_279,You remember it wrong.  Just saying.,gaslighting,Henry,36,False,negative
+Jack_280,You're always starting fights.,blame_shifting,Jack,30,False,negative
+Alice_281,What time will you be home?,neutral,Alice,27,False,neutral
+Charlie_282,"You remember it wrong.  You know that, right?",gaslighting,Charlie,45,False,negative
+Henry_283,"I've sacrificed so much, and you don't even care.  Okay?",guilt_trip,Henry,56,False,negative
+Jack_284,Don’t blame me for what happens next.  Just saying.,threat,Jack,51,True,negative
+David_285,Don’t blame me for what happens next.  Okay?,threat,David,44,True,negative
+Eve_286,Good morning! Have a great day.  Please.,neutral,Eve,40,False,neutral
+Henry_287,You'll be sorry you ever left.,threat,Henry,30,True,negative
+David_288,"Sure, I’m not upset. Why would I be?",passive_aggressive,David,36,False,negative
+Charlie_289,Let’s go out for dinner.  Just saying.,neutral,Charlie,38,False,neutral
+Eve_290,You think you can survive without me?  Okay?,threat,Eve,44,False,negative
+Alice_291,"If you hadn’t done that, I wouldn’t be like this.  Please.",blame_shifting,Alice,58,False,negative
+Grace_292,Thanks for remembering I exist.  Okay?,passive_aggressive,Grace,38,False,negative
+Frank_293,"If you hadn’t done that, I wouldn’t be like this.  You know that, right?",blame_shifting,Frank,72,False,negative
+Frank_294,That never happened. You're imagining things.  Okay?,gaslighting,Frank,52,False,negative
+Charlie_295,You'll regret this.,threat,Charlie,19,True,negative
+Henry_296,It’s always your fault.  Just saying.,blame_shifting,Henry,37,False,negative
+David_297,Don't talk to me.,silent_treatment,David,17,False,negative
+Henry_298,That never happened. You're imagining things.  Just saying.,gaslighting,Henry,59,False,negative
+David_299,You'll regret this.  Please.,threat,David,28,True,negative
+Ivy_300,I guess I just don't matter to you anymore.  Okay?,guilt_trip,Ivy,50,False,negative
+Henry_301,That never happened. You're imagining things.,gaslighting,Henry,45,False,negative
+Charlie_302,You’re too sensitive.  Okay?,gaslighting,Charlie,28,False,negative
+Bob_303,You'll regret this.,threat,Bob,19,True,negative
+Grace_304,"If you hadn’t done that, I wouldn’t be like this.  You know that, right?",blame_shifting,Grace,72,False,negative
+Ivy_305,That never happened. You're imagining things.,gaslighting,Ivy,45,False,negative
+Alice_306,You always overreact.  Just saying.,gaslighting,Alice,35,False,negative
+Henry_307,I’m heading to the gym.  Okay?,neutral,Henry,30,False,neutral
+Alice_308,How was your day?  Okay?,neutral,Alice,24,False,neutral
+David_309,I guess I just don't matter to you anymore.,guilt_trip,David,43,False,negative
+Grace_310,You made me act this way.  Okay?,blame_shifting,Grace,32,False,negative
+Alice_311,Don't talk to me.  Just saying.,silent_treatment,Alice,31,False,negative
+Bob_312,I never said that. You’re making it up.  Please.,gaslighting,Bob,48,False,negative
+Eve_313,You’re the reason everything is ruined.  Please.,blame_shifting,Eve,48,False,negative
+Henry_314,That never happened. You're imagining things.  Please.,gaslighting,Henry,54,False,negative
+Bob_315,You're always starting fights.  Okay?,blame_shifting,Bob,37,False,negative
+Grace_316,I never said that. You’re making it up.  Please.,gaslighting,Grace,48,False,negative
+Ivy_317,"After everything I did for you, this is how you repay me?  Okay?",guilt_trip,Ivy,64,False,negative
+Charlie_318,I don’t feel like talking.  Okay?,silent_treatment,Charlie,33,False,negative
+Grace_319,"You made me act this way.  You know that, right?",blame_shifting,Grace,48,False,negative
+Ivy_320,You’re the reason everything is ruined.  Just saying.,blame_shifting,Ivy,53,False,negative
+Ivy_321,Fine. Do whatever you want.  Just saying.,passive_aggressive,Ivy,41,False,negative
+Charlie_322,It’s always your fault.  Okay?,blame_shifting,Charlie,30,False,negative
+Frank_323,I guess I just don't matter to you anymore.  Please.,guilt_trip,Frank,52,False,negative
+Henry_324,You never appreciate anything I do.  Just saying.,guilt_trip,Henry,49,False,negative
+Jack_325,How was your day?  Okay?,neutral,Jack,24,False,neutral
+Bob_326,"I've sacrificed so much, and you don't even care.  Please.",guilt_trip,Bob,58,False,negative
+Ivy_327,"It’s always your fault.  You know that, right?",blame_shifting,Ivy,46,False,negative
+Alice_328,You're always starting fights.  Just saying.,blame_shifting,Alice,44,False,negative
+Jack_329,"Sure, I’m not upset. Why would I be?  Just saying.",passive_aggressive,Jack,50,False,negative
+Frank_330,You remember it wrong.  Please.,gaslighting,Frank,31,False,negative
+Eve_331,"I always put you first, and this is what I get?  Please.",guilt_trip,Eve,56,False,negative
+Eve_332,"After everything I did for you, this is how you repay me?  Please.",guilt_trip,Eve,66,False,negative
+Henry_333,"What time will you be home?  You know that, right?",neutral,Henry,50,False,neutral
+Charlie_334,"If you hadn’t done that, I wouldn’t be like this.  Just saying.",blame_shifting,Charlie,63,False,negative
+Ivy_335,"Sure, I’m not upset. Why would I be?",passive_aggressive,Ivy,36,False,negative
+Frank_336,"You'll regret this.  You know that, right?",threat,Frank,42,True,negative
+Jack_337,Good morning! Have a great day.,neutral,Jack,31,False,neutral
+Frank_338,"You think you can survive without me?  You know that, right?",threat,Frank,60,False,negative
+Charlie_339,"After everything I did for you, this is how you repay me?",guilt_trip,Charlie,57,False,negative
+Jack_340,"If you hadn’t done that, I wouldn’t be like this.  Please.",blame_shifting,Jack,58,False,negative
+Ivy_341,You're always starting fights.,blame_shifting,Ivy,30,False,negative
+Charlie_342,I don’t feel like talking.  Okay?,silent_treatment,Charlie,33,False,negative
+Jack_343,I don’t feel like talking.  Okay?,silent_treatment,Jack,33,False,negative
+Grace_344,"I always put you first, and this is what I get?  Please.",guilt_trip,Grace,56,False,negative
+Alice_345,"I've sacrificed so much, and you don't even care.  Just saying.",guilt_trip,Alice,63,False,negative
+Bob_346,You're always starting fights.  Okay?,blame_shifting,Bob,37,False,negative
+Eve_347,*ignores messages*,silent_treatment,Eve,18,False,negative
+Henry_348,You made me act this way.  Please.,blame_shifting,Henry,34,False,negative
+Ivy_349,"Good morning! Have a great day.  You know that, right?",neutral,Ivy,54,False,neutral
+Ivy_350,Fine. Do whatever you want.  Please.,passive_aggressive,Ivy,36,False,negative
+Bob_351,Let’s go out for dinner.  Please.,neutral,Bob,33,False,neutral
+Eve_352,"If you hadn’t done that, I wouldn’t be like this.",blame_shifting,Eve,49,False,negative
+Henry_353,You'll regret this.  Okay?,threat,Henry,26,True,negative
+Henry_354,It’s always your fault.,blame_shifting,Henry,23,False,negative
+Ivy_355,"Don’t blame me for what happens next.  You know that, right?",threat,Ivy,60,True,negative
+Grace_356,How was your day?,neutral,Grace,17,False,neutral
+Charlie_357,"Whatever. It’s your life.  You know that, right?",passive_aggressive,Charlie,48,False,negative
+Frank_358,"Fine. Do whatever you want.  You know that, right?",passive_aggressive,Frank,50,False,negative
+Charlie_359,"*ignores messages*  You know that, right?",silent_treatment,Charlie,41,False,negative
+Eve_360,What time will you be home?  Just saying.,neutral,Eve,41,False,neutral
+David_361,You'll regret this.  Just saying.,threat,David,33,True,negative
+Charlie_362,Fine. Do whatever you want.  Okay?,passive_aggressive,Charlie,34,False,negative
+David_363,Nothing. I’m fine.  Please.,silent_treatment,David,27,False,negative
+Henry_364,...  Okay?,silent_treatment,Henry,10,False,negative
+Grace_365,Fine. Do whatever you want.  Okay?,passive_aggressive,Grace,34,False,negative
+Jack_366,I guess I just don't matter to you anymore.  Just saying.,guilt_trip,Jack,57,False,negative
+Frank_367,It’s always your fault.  Okay?,blame_shifting,Frank,30,False,negative
+Frank_368,"If you hadn’t done that, I wouldn’t be like this.  Just saying.",blame_shifting,Frank,63,False,negative
+Bob_369,I never said that. You’re making it up.  Okay?,gaslighting,Bob,46,False,negative
+Ivy_370,I hope you're proud of yourself.,passive_aggressive,Ivy,32,False,negative
+David_371,You think you can survive without me?,threat,David,37,False,negative
+Eve_372,I guess I just don't matter to you anymore.,guilt_trip,Eve,43,False,negative
+Eve_373,"If you leave me, I’ll hurt myself.  Please.",threat,Eve,43,True,negative
+Bob_374,I’m heading to the gym.  Okay?,neutral,Bob,30,False,neutral
+Alice_375,You’re the reason everything is ruined.  Okay?,blame_shifting,Alice,46,False,negative
+Ivy_376,"Don’t blame me for what happens next.  You know that, right?",threat,Ivy,60,True,negative
+Ivy_377,"Don't talk to me.  You know that, right?",silent_treatment,Ivy,40,False,negative
+Charlie_378,You always overreact.,gaslighting,Charlie,21,False,negative
+Jack_379,"You remember it wrong.  You know that, right?",gaslighting,Jack,45,False,negative
+Henry_380,"You’re too sensitive.  You know that, right?",gaslighting,Henry,44,False,negative
+Charlie_381,You always overreact.  Okay?,gaslighting,Charlie,28,False,negative
+Jack_382,You’re too sensitive.,gaslighting,Jack,21,False,negative
+Henry_383,"It’s always your fault.  You know that, right?",blame_shifting,Henry,46,False,negative
+Jack_384,You’re the reason everything is ruined.  Okay?,blame_shifting,Jack,46,False,negative
+Bob_385,...  Okay?,silent_treatment,Bob,10,False,negative
+Alice_386,"After everything I did for you, this is how you repay me?  You know that, right?",guilt_trip,Alice,80,False,negative
+Grace_387,I’m heading to the gym.  Just saying.,neutral,Grace,37,False,neutral
+Alice_388,"You’re the reason everything is ruined.  You know that, right?",blame_shifting,Alice,62,False,negative
+Henry_389,Nothing. I’m fine.  Okay?,silent_treatment,Henry,25,False,negative
+David_390,*ignores messages*,silent_treatment,David,18,False,negative
+Bob_391,I’m heading to the gym.  Please.,neutral,Bob,32,False,neutral
+Ivy_392,"Whatever. It’s your life.  You know that, right?",passive_aggressive,Ivy,48,False,negative
+Charlie_393,"I hope you're proud of yourself.  You know that, right?",passive_aggressive,Charlie,55,False,negative
+Eve_394,You're always starting fights.  Please.,blame_shifting,Eve,39,False,negative
+Jack_395,You remember it wrong.,gaslighting,Jack,22,False,negative
+Charlie_396,I hope you're proud of yourself.  Just saying.,passive_aggressive,Charlie,46,False,negative
+Eve_397,"After everything I did for you, this is how you repay me?  You know that, right?",guilt_trip,Eve,80,False,negative
+Jack_398,I’m heading to the gym.,neutral,Jack,23,False,neutral
+Eve_399,You think you can survive without me?  Just saying.,threat,Eve,51,False,negative
+Alice_400,Let’s go out for dinner.  Please.,neutral,Alice,33,False,neutral
+Bob_401,"It’s always your fault.  You know that, right?",blame_shifting,Bob,46,False,negative
+Alice_402,I never said that. You’re making it up.  Just saying.,gaslighting,Alice,53,False,negative
+Charlie_403,*ignores messages*  Okay?,silent_treatment,Charlie,25,False,negative
+Grace_404,That never happened. You're imagining things.,gaslighting,Grace,45,False,negative
+Frank_405,"I always put you first, and this is what I get?  You know that, right?",guilt_trip,Frank,70,False,negative
+Ivy_406,You made me act this way.  Just saying.,blame_shifting,Ivy,39,False,negative
+David_407,What time will you be home?  Please.,neutral,David,36,False,neutral
+Alice_408,"You remember it wrong.  You know that, right?",gaslighting,Alice,45,False,negative
+David_409,Don't talk to me.  Just saying.,silent_treatment,David,31,False,negative
+Eve_410,It’s always your fault.,blame_shifting,Eve,23,False,negative
+Alice_411,You'll be sorry you ever left.  Just saying.,threat,Alice,44,True,negative
+Bob_412,"You always overreact.  You know that, right?",gaslighting,Bob,44,False,negative
+Alice_413,It’s always your fault.  Please.,blame_shifting,Alice,32,False,negative
+Henry_414,Don’t blame me for what happens next.  Okay?,threat,Henry,44,True,negative
+Alice_415,"After everything I did for you, this is how you repay me?  Please.",guilt_trip,Alice,66,False,negative
+Frank_416,You're always starting fights.,blame_shifting,Frank,30,False,negative
+Jack_417,"Fine. Do whatever you want.  You know that, right?",passive_aggressive,Jack,50,False,negative
+David_418,I hope you're proud of yourself.  Please.,passive_aggressive,David,41,False,negative
+Grace_419,I hope you're proud of yourself.  Okay?,passive_aggressive,Grace,39,False,negative
+Alice_420,"Fine. Do whatever you want.  You know that, right?",passive_aggressive,Alice,50,False,negative
+David_421,"After everything I did for you, this is how you repay me?  Just saying.",guilt_trip,David,71,False,negative
+Charlie_422,Don’t blame me for what happens next.  Okay?,threat,Charlie,44,True,negative
+Henry_423,"You're always starting fights.  You know that, right?",blame_shifting,Henry,53,False,negative
+Eve_424,You never appreciate anything I do.  Please.,guilt_trip,Eve,44,False,negative
+David_425,I hope you're proud of yourself.  Okay?,passive_aggressive,David,39,False,negative
+Grace_426,You'll be sorry you ever left.,threat,Grace,30,True,negative
+Jack_427,You’re too sensitive.  Okay?,gaslighting,Jack,28,False,negative
+Alice_428,I don’t feel like talking.  Please.,silent_treatment,Alice,35,False,negative
+David_429,"You always overreact.  You know that, right?",gaslighting,David,44,False,negative
+Ivy_430,You remember it wrong.  Please.,gaslighting,Ivy,31,False,negative
+Frank_431,"I always put you first, and this is what I get?  Okay?",guilt_trip,Frank,54,False,negative
+Alice_432,I hope you're proud of yourself.,passive_aggressive,Alice,32,False,negative
+Charlie_433,"After everything I did for you, this is how you repay me?  You know that, right?",guilt_trip,Charlie,80,False,negative
+Bob_434,That never happened. You're imagining things.  Okay?,gaslighting,Bob,52,False,negative
+Eve_435,Let’s go out for dinner.  Just saying.,neutral,Eve,38,False,neutral
+Bob_436,"Sure, I’m not upset. Why would I be?  Just saying.",passive_aggressive,Bob,50,False,negative
+Bob_437,"If you leave me, I’ll hurt myself.  Okay?",threat,Bob,41,True,negative
+Grace_438,"I always put you first, and this is what I get?  Please.",guilt_trip,Grace,56,False,negative
+Bob_439,I’m heading to the gym.  Just saying.,neutral,Bob,37,False,neutral
+Alice_440,"If you leave me, I’ll hurt myself.  Please.",threat,Alice,43,True,negative
+Jack_441,*ignores messages*,silent_treatment,Jack,18,False,negative
+Jack_442,"If you leave me, I’ll hurt myself.  Okay?",threat,Jack,41,True,negative
+Bob_443,"You made me act this way.  You know that, right?",blame_shifting,Bob,48,False,negative
+Henry_444,I guess I just don't matter to you anymore.,guilt_trip,Henry,43,False,negative
+Charlie_445,You always overreact.  Okay?,gaslighting,Charlie,28,False,negative
+Henry_446,"You always overreact.  You know that, right?",gaslighting,Henry,44,False,negative
+Charlie_447,I guess I just don't matter to you anymore.  Please.,guilt_trip,Charlie,52,False,negative
+Frank_448,Fine. Do whatever you want.,passive_aggressive,Frank,27,False,negative
+Grace_449,"Sure, I’m not upset. Why would I be?  You know that, right?",passive_aggressive,Grace,59,False,negative
+Henry_450,That never happened. You're imagining things.  Please.,gaslighting,Henry,54,False,negative
+Frank_451,Don't talk to me.  Please.,silent_treatment,Frank,26,False,negative
+Alice_452,"Let’s go out for dinner.  You know that, right?",neutral,Alice,47,False,neutral
+Frank_453,You made me act this way.  Just saying.,blame_shifting,Frank,39,False,negative
+Bob_454,"Thanks for remembering I exist.  You know that, right?",passive_aggressive,Bob,54,False,negative
+Henry_455,You're always starting fights.  Just saying.,blame_shifting,Henry,44,False,negative
+Eve_456,Don't talk to me.  Please.,silent_treatment,Eve,26,False,negative
+Grace_457,"If you hadn’t done that, I wouldn’t be like this.",blame_shifting,Grace,49,False,negative
+Alice_458,It’s always your fault.  Please.,blame_shifting,Alice,32,False,negative
+Grace_459,"...  You know that, right?",silent_treatment,Grace,26,False,negative
+Jack_460,*ignores messages*  Okay?,silent_treatment,Jack,25,False,negative
+Jack_461,"I've sacrificed so much, and you don't even care.  You know that, right?",guilt_trip,Jack,72,False,negative
+Jack_462,"I guess I just don't matter to you anymore.  You know that, right?",guilt_trip,Jack,66,False,negative
+Henry_463,It’s always your fault.  Please.,blame_shifting,Henry,32,False,negative
+Henry_464,You'll be sorry you ever left.,threat,Henry,30,True,negative
+Grace_465,"How was your day?  You know that, right?",neutral,Grace,40,False,neutral
+Ivy_466,"After everything I did for you, this is how you repay me?  Please.",guilt_trip,Ivy,66,False,negative
+Eve_467,*ignores messages*  Okay?,silent_treatment,Eve,25,False,negative
+Henry_468,Nothing. I’m fine.  Just saying.,silent_treatment,Henry,32,False,negative
+Charlie_469,What time will you be home?  Please.,neutral,Charlie,36,False,neutral
+David_470,"You think you can survive without me?  You know that, right?",threat,David,60,False,negative
+Bob_471,Good morning! Have a great day.  Okay?,neutral,Bob,38,False,neutral
+Alice_472,Fine. Do whatever you want.  Please.,passive_aggressive,Alice,36,False,negative
+Henry_473,What time will you be home?,neutral,Henry,27,False,neutral
+David_474,How was your day?,neutral,David,17,False,neutral
+David_475,I’m heading to the gym.  Okay?,neutral,David,30,False,neutral
+Alice_476,"If you hadn’t done that, I wouldn’t be like this.  You know that, right?",blame_shifting,Alice,72,False,negative
+Charlie_477,You'll regret this.  Please.,threat,Charlie,28,True,negative
+Ivy_478,Don’t blame me for what happens next.  Please.,threat,Ivy,46,True,negative
+Grace_479,I hope you're proud of yourself.  Just saying.,passive_aggressive,Grace,46,False,negative
+Ivy_480,Thanks for remembering I exist.  Just saying.,passive_aggressive,Ivy,45,False,negative
+Bob_481,Don’t blame me for what happens next.  Okay?,threat,Bob,44,True,negative
+David_482,"It’s always your fault.  You know that, right?",blame_shifting,David,46,False,negative
+Jack_483,It’s always your fault.,blame_shifting,Jack,23,False,negative
+Eve_484,Nothing. I’m fine.  Please.,silent_treatment,Eve,27,False,negative
+Ivy_485,"If you hadn’t done that, I wouldn’t be like this.  You know that, right?",blame_shifting,Ivy,72,False,negative
+Alice_486,"Whatever. It’s your life.  You know that, right?",passive_aggressive,Alice,48,False,negative
+Henry_487,"I always put you first, and this is what I get?",guilt_trip,Henry,47,False,negative
+David_488,That never happened. You're imagining things.  Please.,gaslighting,David,54,False,negative
+Bob_489,I never said that. You’re making it up.,gaslighting,Bob,39,False,negative
+Jack_490,What time will you be home?,neutral,Jack,27,False,neutral
+Eve_491,What time will you be home?  Okay?,neutral,Eve,34,False,neutral
+Jack_492,You'll be sorry you ever left.  Just saying.,threat,Jack,44,True,negative
+Eve_493,You’re too sensitive.  Please.,gaslighting,Eve,30,False,negative
+Ivy_494,"That never happened. You're imagining things.  You know that, right?",gaslighting,Ivy,68,False,negative
+Frank_495,You never appreciate anything I do.  Please.,guilt_trip,Frank,44,False,negative
+Jack_496,"If you hadn’t done that, I wouldn’t be like this.  Please.",blame_shifting,Jack,58,False,negative
+Frank_497,"I don’t feel like talking.  You know that, right?",silent_treatment,Frank,49,False,negative
+Alice_498,"I hope you're proud of yourself.  You know that, right?",passive_aggressive,Alice,55,False,negative
+Eve_499,"You'll be sorry you ever left.  You know that, right?",threat,Eve,53,True,negative
+Bob_500,*ignores messages*,silent_treatment,Bob,18,False,negative
+Eve_501,You’re the reason everything is ruined.  Okay?,blame_shifting,Eve,46,False,negative
+Alice_502,Don’t blame me for what happens next.  Please.,threat,Alice,46,True,negative
+Grace_503,You’re too sensitive.  Okay?,gaslighting,Grace,28,False,negative
+Eve_504,I hope you're proud of yourself.  Please.,passive_aggressive,Eve,41,False,negative
+Ivy_505,"Whatever. It’s your life.  You know that, right?",passive_aggressive,Ivy,48,False,negative
+Henry_506,You'll be sorry you ever left.,threat,Henry,30,True,negative
+Grace_507,"You’re the reason everything is ruined.  You know that, right?",blame_shifting,Grace,62,False,negative
+Charlie_508,"I've sacrificed so much, and you don't even care.  Please.",guilt_trip,Charlie,58,False,negative
+Eve_509,Good morning! Have a great day.  Okay?,neutral,Eve,38,False,neutral
+Charlie_510,What time will you be home?  Okay?,neutral,Charlie,34,False,neutral
+Henry_511,You remember it wrong.  Please.,gaslighting,Henry,31,False,negative
+Alice_512,Nothing. I’m fine.  Just saying.,silent_treatment,Alice,32,False,negative
+Frank_513,You remember it wrong.  Just saying.,gaslighting,Frank,36,False,negative
+David_514,...  Please.,silent_treatment,David,12,False,negative
+Charlie_515,I never said that. You’re making it up.  Okay?,gaslighting,Charlie,46,False,negative
+Jack_516,Don’t blame me for what happens next.  Okay?,threat,Jack,44,True,negative
+Bob_517,"Good morning! Have a great day.  You know that, right?",neutral,Bob,54,False,neutral
+Henry_518,"You’re too sensitive.  You know that, right?",gaslighting,Henry,44,False,negative
+Eve_519,I don’t feel like talking.  Please.,silent_treatment,Eve,35,False,negative
+Eve_520,"How was your day?  You know that, right?",neutral,Eve,40,False,neutral
+Bob_521,Don’t blame me for what happens next.  Just saying.,threat,Bob,51,True,negative
+Charlie_522,You always overreact.  Please.,gaslighting,Charlie,30,False,negative
+Eve_523,That never happened. You're imagining things.,gaslighting,Eve,45,False,negative
+Henry_524,You'll regret this.  Please.,threat,Henry,28,True,negative
+Alice_525,You always overreact.  Just saying.,gaslighting,Alice,35,False,negative
+Jack_526,You never appreciate anything I do.  Okay?,guilt_trip,Jack,42,False,negative
+Frank_527,"If you hadn’t done that, I wouldn’t be like this.  Just saying.",blame_shifting,Frank,63,False,negative
+Eve_528,I guess I just don't matter to you anymore.  Just saying.,guilt_trip,Eve,57,False,negative
+Frank_529,"I always put you first, and this is what I get?",guilt_trip,Frank,47,False,negative
+Henry_530,"Don’t blame me for what happens next.  You know that, right?",threat,Henry,60,True,negative
+Jack_531,That never happened. You're imagining things.  Just saying.,gaslighting,Jack,59,False,negative
+Ivy_532,"Fine. Do whatever you want.  You know that, right?",passive_aggressive,Ivy,50,False,negative
+Eve_533,"Thanks for remembering I exist.  You know that, right?",passive_aggressive,Eve,54,False,negative
+Alice_534,...,silent_treatment,Alice,3,False,negative
+Ivy_535,How was your day?  Just saying.,neutral,Ivy,31,False,neutral
+Eve_536,Don't talk to me.,silent_treatment,Eve,17,False,negative
+Frank_537,You'll be sorry you ever left.,threat,Frank,30,True,negative
+David_538,You're always starting fights.  Just saying.,blame_shifting,David,44,False,negative
+Frank_539,Good morning! Have a great day.  Just saying.,neutral,Frank,45,False,neutral
+Eve_540,You made me act this way.  Okay?,blame_shifting,Eve,32,False,negative
+Alice_541,You’re too sensitive.,gaslighting,Alice,21,False,negative
+Grace_542,...  Just saying.,silent_treatment,Grace,17,False,negative
+Grace_543,"How was your day?  You know that, right?",neutral,Grace,40,False,neutral
+Henry_544,Fine. Do whatever you want.  Please.,passive_aggressive,Henry,36,False,negative
+Bob_545,"You never appreciate anything I do.  You know that, right?",guilt_trip,Bob,58,False,negative
+David_546,Thanks for remembering I exist.  Just saying.,passive_aggressive,David,45,False,negative
+David_547,I never said that. You’re making it up.,gaslighting,David,39,False,negative
+Alice_548,You made me act this way.,blame_shifting,Alice,25,False,negative
+David_549,"I've sacrificed so much, and you don't even care.  Please.",guilt_trip,David,58,False,negative
+Alice_550,You remember it wrong.,gaslighting,Alice,22,False,negative
+Frank_551,I hope you're proud of yourself.  Please.,passive_aggressive,Frank,41,False,negative
+Jack_552,It’s always your fault.,blame_shifting,Jack,23,False,negative
+Alice_553,"You made me act this way.  You know that, right?",blame_shifting,Alice,48,False,negative
+Ivy_554,Don’t blame me for what happens next.  Please.,threat,Ivy,46,True,negative
+Bob_555,"Sure, I’m not upset. Why would I be?  You know that, right?",passive_aggressive,Bob,59,False,negative
+Alice_556,"Sure, I’m not upset. Why would I be?  Please.",passive_aggressive,Alice,45,False,negative
+Eve_557,...,silent_treatment,Eve,3,False,negative
+Henry_558,"...  You know that, right?",silent_treatment,Henry,26,False,negative
+David_559,"You'll regret this.  You know that, right?",threat,David,42,True,negative
+Grace_560,"If you hadn’t done that, I wouldn’t be like this.  Okay?",blame_shifting,Grace,56,False,negative
+Eve_561,You think you can survive without me?  Okay?,threat,Eve,44,False,negative
+Ivy_562,"I've sacrificed so much, and you don't even care.  You know that, right?",guilt_trip,Ivy,72,False,negative
+Bob_563,Don't talk to me.  Just saying.,silent_treatment,Bob,31,False,negative
+David_564,"You made me act this way.  You know that, right?",blame_shifting,David,48,False,negative
+Eve_565,Thanks for remembering I exist.,passive_aggressive,Eve,31,False,negative
+Jack_566,I never said that. You’re making it up.  Please.,gaslighting,Jack,48,False,negative
+Alice_567,Don't talk to me.,silent_treatment,Alice,17,False,negative
+Frank_568,"After everything I did for you, this is how you repay me?  Please.",guilt_trip,Frank,66,False,negative
+Jack_569,It’s always your fault.  Please.,blame_shifting,Jack,32,False,negative
+Henry_570,"If you hadn’t done that, I wouldn’t be like this.  You know that, right?",blame_shifting,Henry,72,False,negative
+Jack_571,That never happened. You're imagining things.  Okay?,gaslighting,Jack,52,False,negative
+Jack_572,"After everything I did for you, this is how you repay me?  Please.",guilt_trip,Jack,66,False,negative
+Charlie_573,Let’s go out for dinner.,neutral,Charlie,24,False,neutral
+Eve_574,It’s always your fault.  Just saying.,blame_shifting,Eve,37,False,negative
+Frank_575,"You always overreact.  You know that, right?",gaslighting,Frank,44,False,negative
+Eve_576,You’re the reason everything is ruined.  Please.,blame_shifting,Eve,48,False,negative
+Jack_577,"I've sacrificed so much, and you don't even care.  You know that, right?",guilt_trip,Jack,72,False,negative
+Alice_578,"After everything I did for you, this is how you repay me?  Just saying.",guilt_trip,Alice,71,False,negative
+Jack_579,I guess I just don't matter to you anymore.  Okay?,guilt_trip,Jack,50,False,negative
+Ivy_580,I guess I just don't matter to you anymore.  Just saying.,guilt_trip,Ivy,57,False,negative
+Frank_581,You never appreciate anything I do.  Okay?,guilt_trip,Frank,42,False,negative
+Eve_582,Don't talk to me.  Please.,silent_treatment,Eve,26,False,negative
+Bob_583,Thanks for remembering I exist.,passive_aggressive,Bob,31,False,negative
+Charlie_584,"If you hadn’t done that, I wouldn’t be like this.  Just saying.",blame_shifting,Charlie,63,False,negative
+Bob_585,I don’t feel like talking.  Okay?,silent_treatment,Bob,33,False,negative
+Frank_586,"You'll be sorry you ever left.  You know that, right?",threat,Frank,53,True,negative
+Ivy_587,"That never happened. You're imagining things.  You know that, right?",gaslighting,Ivy,68,False,negative
+Eve_588,You always overreact.  Please.,gaslighting,Eve,30,False,negative
+Charlie_589,"I've sacrificed so much, and you don't even care.  Please.",guilt_trip,Charlie,58,False,negative
+David_590,Good morning! Have a great day.  Please.,neutral,David,40,False,neutral
+Grace_591,"You’re the reason everything is ruined.  You know that, right?",blame_shifting,Grace,62,False,negative
+Grace_592,"That never happened. You're imagining things.  You know that, right?",gaslighting,Grace,68,False,negative
+Ivy_593,"How was your day?  You know that, right?",neutral,Ivy,40,False,neutral
+Grace_594,You always overreact.,gaslighting,Grace,21,False,negative
+Grace_595,I don’t feel like talking.  Just saying.,silent_treatment,Grace,40,False,negative
+David_596,You'll regret this.  Just saying.,threat,David,33,True,negative
+Ivy_597,I never said that. You’re making it up.  Okay?,gaslighting,Ivy,46,False,negative
+Charlie_598,Don't talk to me.  Okay?,silent_treatment,Charlie,24,False,negative
+Alice_599,"You’re the reason everything is ruined.  You know that, right?",blame_shifting,Alice,62,False,negative
+Grace_600,"I always put you first, and this is what I get?",guilt_trip,Grace,47,False,negative
+Alice_601,You’re the reason everything is ruined.,blame_shifting,Alice,39,False,negative
+Alice_602,"I've sacrificed so much, and you don't even care.  Okay?",guilt_trip,Alice,56,False,negative
+David_603,You’re too sensitive.  Just saying.,gaslighting,David,35,False,negative
+Charlie_604,"I've sacrificed so much, and you don't even care.  Okay?",guilt_trip,Charlie,56,False,negative
+Charlie_605,"...  You know that, right?",silent_treatment,Charlie,26,False,negative
+Charlie_606,"If you hadn’t done that, I wouldn’t be like this.  Please.",blame_shifting,Charlie,58,False,negative
+Charlie_607,You’re the reason everything is ruined.  Please.,blame_shifting,Charlie,48,False,negative
+Charlie_608,Good morning! Have a great day.  Just saying.,neutral,Charlie,45,False,neutral
+Ivy_609,"You remember it wrong.  You know that, right?",gaslighting,Ivy,45,False,negative
+Frank_610,I guess I just don't matter to you anymore.  Just saying.,guilt_trip,Frank,57,False,negative
+Eve_611,"Don't talk to me.  You know that, right?",silent_treatment,Eve,40,False,negative
+Ivy_612,"Thanks for remembering I exist.  You know that, right?",passive_aggressive,Ivy,54,False,negative
+Grace_613,You made me act this way.,blame_shifting,Grace,25,False,negative
+Frank_614,...  Just saying.,silent_treatment,Frank,17,False,negative
+Jack_615,It’s always your fault.,blame_shifting,Jack,23,False,negative
+Frank_616,You never appreciate anything I do.  Okay?,guilt_trip,Frank,42,False,negative
+David_617,"If you leave me, I’ll hurt myself.",threat,David,34,True,negative
+Alice_618,I guess I just don't matter to you anymore.  Just saying.,guilt_trip,Alice,57,False,negative
+Grace_619,"I guess I just don't matter to you anymore.  You know that, right?",guilt_trip,Grace,66,False,negative
+David_620,How was your day?,neutral,David,17,False,neutral
+Bob_621,How was your day?  Okay?,neutral,Bob,24,False,neutral
+Grace_622,Whatever. It’s your life.  Just saying.,passive_aggressive,Grace,39,False,negative
+Alice_623,"You’re too sensitive.  You know that, right?",gaslighting,Alice,44,False,negative
+Frank_624,Thanks for remembering I exist.,passive_aggressive,Frank,31,False,negative
+Eve_625,Don't talk to me.  Okay?,silent_treatment,Eve,24,False,negative
+Henry_626,I guess I just don't matter to you anymore.  Please.,guilt_trip,Henry,52,False,negative
+Jack_627,You never appreciate anything I do.,guilt_trip,Jack,35,False,negative
+Ivy_628,You made me act this way.  Please.,blame_shifting,Ivy,34,False,negative
+Alice_629,"You always overreact.  You know that, right?",gaslighting,Alice,44,False,negative
+Eve_630,I never said that. You’re making it up.  Okay?,gaslighting,Eve,46,False,negative
+Eve_631,"You never appreciate anything I do.  You know that, right?",guilt_trip,Eve,58,False,negative
+Ivy_632,You made me act this way.  Please.,blame_shifting,Ivy,34,False,negative
+Grace_633,"After everything I did for you, this is how you repay me?  Please.",guilt_trip,Grace,66,False,negative
+Eve_634,You remember it wrong.  Okay?,gaslighting,Eve,29,False,negative
+Bob_635,I guess I just don't matter to you anymore.  Please.,guilt_trip,Bob,52,False,negative
+Grace_636,"I always put you first, and this is what I get?  Please.",guilt_trip,Grace,56,False,negative
+Henry_637,"You think you can survive without me?  You know that, right?",threat,Henry,60,False,negative
+Jack_638,You never appreciate anything I do.,guilt_trip,Jack,35,False,negative
+Bob_639,"How was your day?  You know that, right?",neutral,Bob,40,False,neutral
+Ivy_640,You never appreciate anything I do.  Please.,guilt_trip,Ivy,44,False,negative
+Bob_641,That never happened. You're imagining things.  Just saying.,gaslighting,Bob,59,False,negative
+Grace_642,"You’re the reason everything is ruined.  You know that, right?",blame_shifting,Grace,62,False,negative
+David_643,You’re too sensitive.  Just saying.,gaslighting,David,35,False,negative
+Jack_644,"I’m heading to the gym.  You know that, right?",neutral,Jack,46,False,neutral
+Charlie_645,You remember it wrong.  Please.,gaslighting,Charlie,31,False,negative
+Bob_646,Whatever. It’s your life.,passive_aggressive,Bob,25,False,negative
+Alice_647,What time will you be home?,neutral,Alice,27,False,neutral
+Grace_648,I don’t feel like talking.  Please.,silent_treatment,Grace,35,False,negative
+Grace_649,"If you leave me, I’ll hurt myself.",threat,Grace,34,True,negative
+David_650,I guess I just don't matter to you anymore.  Please.,guilt_trip,David,52,False,negative
+Alice_651,"After everything I did for you, this is how you repay me?  Okay?",guilt_trip,Alice,64,False,negative
+Grace_652,What time will you be home?,neutral,Grace,27,False,neutral
+David_653,"If you leave me, I’ll hurt myself.  Just saying.",threat,David,48,True,negative
+David_654,I never said that. You’re making it up.  Just saying.,gaslighting,David,53,False,negative
+Eve_655,"If you hadn’t done that, I wouldn’t be like this.  You know that, right?",blame_shifting,Eve,72,False,negative
+Charlie_656,"If you leave me, I’ll hurt myself.  Please.",threat,Charlie,43,True,negative
+Ivy_657,You never appreciate anything I do.  Please.,guilt_trip,Ivy,44,False,negative
+Grace_658,You think you can survive without me?  Just saying.,threat,Grace,51,False,negative
+Frank_659,Let’s go out for dinner.  Please.,neutral,Frank,33,False,neutral
+Charlie_660,*ignores messages*  Please.,silent_treatment,Charlie,27,False,negative
+Jack_661,"You'll be sorry you ever left.  You know that, right?",threat,Jack,53,True,negative
+Grace_662,How was your day?  Just saying.,neutral,Grace,31,False,neutral
+Alice_663,"I always put you first, and this is what I get?",guilt_trip,Alice,47,False,negative
+Eve_664,Nothing. I’m fine.,silent_treatment,Eve,18,False,negative
+Charlie_665,"Fine. Do whatever you want.  You know that, right?",passive_aggressive,Charlie,50,False,negative
+Eve_666,You’re too sensitive.  Please.,gaslighting,Eve,30,False,negative
+Charlie_667,Don’t blame me for what happens next.,threat,Charlie,37,True,negative
+Bob_668,You made me act this way.  Please.,blame_shifting,Bob,34,False,negative
+David_669,I don’t feel like talking.  Please.,silent_treatment,David,35,False,negative
+Eve_670,You'll be sorry you ever left.  Just saying.,threat,Eve,44,True,negative
+Ivy_671,You never appreciate anything I do.,guilt_trip,Ivy,35,False,negative
+David_672,Don’t blame me for what happens next.  Please.,threat,David,46,True,negative
+Ivy_673,You never appreciate anything I do.  Please.,guilt_trip,Ivy,44,False,negative
+Ivy_674,You'll regret this.  Okay?,threat,Ivy,26,True,negative
+Eve_675,"Let’s go out for dinner.  You know that, right?",neutral,Eve,47,False,neutral
+Frank_676,"I don’t feel like talking.  You know that, right?",silent_treatment,Frank,49,False,negative
+Grace_677,"After everything I did for you, this is how you repay me?  Just saying.",guilt_trip,Grace,71,False,negative
+Frank_678,*ignores messages*,silent_treatment,Frank,18,False,negative
+Bob_679,"Good morning! Have a great day.  You know that, right?",neutral,Bob,54,False,neutral
+Eve_680,"If you leave me, I’ll hurt myself.  Okay?",threat,Eve,41,True,negative
+Ivy_681,You'll regret this.  Please.,threat,Ivy,28,True,negative
+Eve_682,"What time will you be home?  You know that, right?",neutral,Eve,50,False,neutral
+David_683,You made me act this way.  Okay?,blame_shifting,David,32,False,negative
+David_684,"I've sacrificed so much, and you don't even care.  Please.",guilt_trip,David,58,False,negative
+Grace_685,You'll regret this.  Please.,threat,Grace,28,True,negative
+Frank_686,"Thanks for remembering I exist.  You know that, right?",passive_aggressive,Frank,54,False,negative
+David_687,"If you leave me, I’ll hurt myself.  Okay?",threat,David,41,True,negative
+Bob_688,I guess I just don't matter to you anymore.  Please.,guilt_trip,Bob,52,False,negative
+Bob_689,Fine. Do whatever you want.  Just saying.,passive_aggressive,Bob,41,False,negative
+Eve_690,I hope you're proud of yourself.  Please.,passive_aggressive,Eve,41,False,negative
+Ivy_691,I never said that. You’re making it up.,gaslighting,Ivy,39,False,negative
+Henry_692,"If you leave me, I’ll hurt myself.",threat,Henry,34,True,negative
+Henry_693,Fine. Do whatever you want.  Just saying.,passive_aggressive,Henry,41,False,negative
+Charlie_694,Whatever. It’s your life.  Just saying.,passive_aggressive,Charlie,39,False,negative
+Bob_695,You always overreact.  Just saying.,gaslighting,Bob,35,False,negative
+Bob_696,"If you leave me, I’ll hurt myself.  Just saying.",threat,Bob,48,True,negative
+Charlie_697,*ignores messages*  Please.,silent_treatment,Charlie,27,False,negative
+Bob_698,It’s always your fault.  Just saying.,blame_shifting,Bob,37,False,negative
+Eve_699,Nothing. I’m fine.,silent_treatment,Eve,18,False,negative
+Ivy_700,You always overreact.  Okay?,gaslighting,Ivy,28,False,negative
+Frank_701,"How was your day?  You know that, right?",neutral,Frank,40,False,neutral
+Frank_702,I never said that. You’re making it up.,gaslighting,Frank,39,False,negative
+Frank_703,I guess I just don't matter to you anymore.  Just saying.,guilt_trip,Frank,57,False,negative
+Jack_704,"After everything I did for you, this is how you repay me?",guilt_trip,Jack,57,False,negative
+Ivy_705,What time will you be home?  Just saying.,neutral,Ivy,41,False,neutral
+Henry_706,Let’s go out for dinner.  Okay?,neutral,Henry,31,False,neutral
+Jack_707,I never said that. You’re making it up.  Just saying.,gaslighting,Jack,53,False,negative
+Bob_708,"Sure, I’m not upset. Why would I be?  Please.",passive_aggressive,Bob,45,False,negative
+Grace_709,"If you leave me, I’ll hurt myself.  Just saying.",threat,Grace,48,True,negative
+Ivy_710,You remember it wrong.  Just saying.,gaslighting,Ivy,36,False,negative
+Charlie_711,*ignores messages*  Just saying.,silent_treatment,Charlie,32,False,negative
+Charlie_712,It’s always your fault.  Just saying.,blame_shifting,Charlie,37,False,negative
+Jack_713,*ignores messages*  Okay?,silent_treatment,Jack,25,False,negative
+Bob_714,Don’t blame me for what happens next.  Please.,threat,Bob,46,True,negative
+Alice_715,Thanks for remembering I exist.  Please.,passive_aggressive,Alice,40,False,negative
+Henry_716,You’re the reason everything is ruined.  Just saying.,blame_shifting,Henry,53,False,negative
+Charlie_717,You'll regret this.  Please.,threat,Charlie,28,True,negative
+Charlie_718,"I always put you first, and this is what I get?  Okay?",guilt_trip,Charlie,54,False,negative
+Frank_719,You'll regret this.  Okay?,threat,Frank,26,True,negative
+Charlie_720,You’re too sensitive.,gaslighting,Charlie,21,False,negative
+Ivy_721,I’m heading to the gym.  Please.,neutral,Ivy,32,False,neutral
+Grace_722,You’re the reason everything is ruined.  Just saying.,blame_shifting,Grace,53,False,negative
+David_723,Good morning! Have a great day.,neutral,David,31,False,neutral
+Jack_724,"After everything I did for you, this is how you repay me?  Okay?",guilt_trip,Jack,64,False,negative
+Frank_725,"You'll be sorry you ever left.  You know that, right?",threat,Frank,53,True,negative
+Eve_726,You never appreciate anything I do.  Just saying.,guilt_trip,Eve,49,False,negative
+Eve_727,How was your day?  Just saying.,neutral,Eve,31,False,neutral
+Jack_728,How was your day?  Please.,neutral,Jack,26,False,neutral
+Henry_729,"That never happened. You're imagining things.  You know that, right?",gaslighting,Henry,68,False,negative
+David_730,"That never happened. You're imagining things.  You know that, right?",gaslighting,David,68,False,negative
+Eve_731,Don't talk to me.  Please.,silent_treatment,Eve,26,False,negative
+Eve_732,"You're always starting fights.  You know that, right?",blame_shifting,Eve,53,False,negative
+Ivy_733,Don't talk to me.,silent_treatment,Ivy,17,False,negative
+Jack_734,That never happened. You're imagining things.  Just saying.,gaslighting,Jack,59,False,negative
+Frank_735,Fine. Do whatever you want.  Please.,passive_aggressive,Frank,36,False,negative
+Jack_736,You always overreact.,gaslighting,Jack,21,False,negative
+Grace_737,You’re too sensitive.  Just saying.,gaslighting,Grace,35,False,negative
+Ivy_738,"You’re too sensitive.  You know that, right?",gaslighting,Ivy,44,False,negative
+Jack_739,What time will you be home?,neutral,Jack,27,False,neutral
+Eve_740,How was your day?  Please.,neutral,Eve,26,False,neutral
+Charlie_741,Thanks for remembering I exist.  Okay?,passive_aggressive,Charlie,38,False,negative
+Alice_742,You always overreact.  Just saying.,gaslighting,Alice,35,False,negative
+Bob_743,Good morning! Have a great day.  Okay?,neutral,Bob,38,False,neutral
+Grace_744,"Whatever. It’s your life.  You know that, right?",passive_aggressive,Grace,48,False,negative
+Alice_745,*ignores messages*,silent_treatment,Alice,18,False,negative
+Henry_746,"Let’s go out for dinner.  You know that, right?",neutral,Henry,47,False,neutral
+Henry_747,You'll regret this.  Okay?,threat,Henry,26,True,negative
+Alice_748,"I always put you first, and this is what I get?  You know that, right?",guilt_trip,Alice,70,False,negative
+Alice_749,"If you leave me, I’ll hurt myself.  Okay?",threat,Alice,41,True,negative
+Eve_750,"If you leave me, I’ll hurt myself.",threat,Eve,34,True,negative
+Grace_751,*ignores messages*  Okay?,silent_treatment,Grace,25,False,negative
+Frank_752,You're always starting fights.  Just saying.,blame_shifting,Frank,44,False,negative
+Alice_753,"Sure, I’m not upset. Why would I be?  Please.",passive_aggressive,Alice,45,False,negative
+Frank_754,You’re the reason everything is ruined.  Just saying.,blame_shifting,Frank,53,False,negative
+Bob_755,Good morning! Have a great day.  Please.,neutral,Bob,40,False,neutral
+David_756,That never happened. You're imagining things.,gaslighting,David,45,False,negative
+Alice_757,"If you leave me, I’ll hurt myself.  You know that, right?",threat,Alice,57,True,negative
+Ivy_758,How was your day?,neutral,Ivy,17,False,neutral
+Alice_759,"You'll be sorry you ever left.  You know that, right?",threat,Alice,53,True,negative
+Bob_760,You're always starting fights.  Please.,blame_shifting,Bob,39,False,negative
+Grace_761,"I don’t feel like talking.  You know that, right?",silent_treatment,Grace,49,False,negative
+Grace_762,Nothing. I’m fine.  Okay?,silent_treatment,Grace,25,False,negative
+Ivy_763,"I've sacrificed so much, and you don't even care.",guilt_trip,Ivy,49,False,negative
+Frank_764,Thanks for remembering I exist.  Just saying.,passive_aggressive,Frank,45,False,negative
+Grace_765,"You remember it wrong.  You know that, right?",gaslighting,Grace,45,False,negative
+Frank_766,I guess I just don't matter to you anymore.  Okay?,guilt_trip,Frank,50,False,negative
+David_767,Don't talk to me.  Please.,silent_treatment,David,26,False,negative
+Bob_768,I’m heading to the gym.  Just saying.,neutral,Bob,37,False,neutral
+Henry_769,"It’s always your fault.  You know that, right?",blame_shifting,Henry,46,False,negative
+Eve_770,It’s always your fault.,blame_shifting,Eve,23,False,negative
+Bob_771,You'll be sorry you ever left.  Just saying.,threat,Bob,44,True,negative
+Frank_772,You're always starting fights.  Okay?,blame_shifting,Frank,37,False,negative
+Frank_773,"After everything I did for you, this is how you repay me?",guilt_trip,Frank,57,False,negative
+Frank_774,"If you hadn’t done that, I wouldn’t be like this.  You know that, right?",blame_shifting,Frank,72,False,negative
+Eve_775,"What time will you be home?  You know that, right?",neutral,Eve,50,False,neutral
+Alice_776,Thanks for remembering I exist.  Okay?,passive_aggressive,Alice,38,False,negative
+David_777,"That never happened. You're imagining things.  You know that, right?",gaslighting,David,68,False,negative
+Ivy_778,"If you leave me, I’ll hurt myself.",threat,Ivy,34,True,negative
+Eve_779,"I never said that. You’re making it up.  You know that, right?",gaslighting,Eve,62,False,negative
+David_780,You remember it wrong.  Okay?,gaslighting,David,29,False,negative
+David_781,I hope you're proud of yourself.,passive_aggressive,David,32,False,negative
+Eve_782,You're always starting fights.  Just saying.,blame_shifting,Eve,44,False,negative
+Charlie_783,You always overreact.,gaslighting,Charlie,21,False,negative
+Jack_784,"If you hadn’t done that, I wouldn’t be like this.  Please.",blame_shifting,Jack,58,False,negative
+Ivy_785,"If you leave me, I’ll hurt myself.  Just saying.",threat,Ivy,48,True,negative
+Eve_786,"Sure, I’m not upset. Why would I be?  Okay?",passive_aggressive,Eve,43,False,negative
+Charlie_787,I don’t feel like talking.,silent_treatment,Charlie,26,False,negative
+Bob_788,"After everything I did for you, this is how you repay me?  Please.",guilt_trip,Bob,66,False,negative
+Charlie_789,You're always starting fights.  Okay?,blame_shifting,Charlie,37,False,negative
+Bob_790,"If you leave me, I’ll hurt myself.  Just saying.",threat,Bob,48,True,negative
+Jack_791,*ignores messages*,silent_treatment,Jack,18,False,negative
+Frank_792,You’re too sensitive.,gaslighting,Frank,21,False,negative
+Frank_793,Fine. Do whatever you want.  Please.,passive_aggressive,Frank,36,False,negative
+Alice_794,Thanks for remembering I exist.  Just saying.,passive_aggressive,Alice,45,False,negative
+David_795,"After everything I did for you, this is how you repay me?",guilt_trip,David,57,False,negative
+Bob_796,"Whatever. It’s your life.  You know that, right?",passive_aggressive,Bob,48,False,negative
+Frank_797,Thanks for remembering I exist.  Okay?,passive_aggressive,Frank,38,False,negative
+Eve_798,How was your day?  Okay?,neutral,Eve,24,False,neutral
+Eve_799,Good morning! Have a great day.,neutral,Eve,31,False,neutral
+Alice_800,"I always put you first, and this is what I get?  Okay?",guilt_trip,Alice,54,False,negative
+Frank_801,I don’t feel like talking.,silent_treatment,Frank,26,False,negative
+Frank_802,"If you hadn’t done that, I wouldn’t be like this.",blame_shifting,Frank,49,False,negative
+David_803,"If you hadn’t done that, I wouldn’t be like this.  You know that, right?",blame_shifting,David,72,False,negative
+Eve_804,"If you leave me, I’ll hurt myself.",threat,Eve,34,True,negative
+Bob_805,You never appreciate anything I do.,guilt_trip,Bob,35,False,negative
+Grace_806,"You'll be sorry you ever left.  You know that, right?",threat,Grace,53,True,negative
+David_807,It’s always your fault.  Just saying.,blame_shifting,David,37,False,negative
+Ivy_808,...  Please.,silent_treatment,Ivy,12,False,negative
+Eve_809,Let’s go out for dinner.  Just saying.,neutral,Eve,38,False,neutral
+Eve_810,"After everything I did for you, this is how you repay me?  Please.",guilt_trip,Eve,66,False,negative
+Eve_811,You’re too sensitive.,gaslighting,Eve,21,False,negative
+Eve_812,You'll be sorry you ever left.  Just saying.,threat,Eve,44,True,negative
+Henry_813,Good morning! Have a great day.  Okay?,neutral,Henry,38,False,neutral
+Henry_814,"If you leave me, I’ll hurt myself.  Just saying.",threat,Henry,48,True,negative
+Henry_815,Thanks for remembering I exist.  Just saying.,passive_aggressive,Henry,45,False,negative
+Charlie_816,"I’m heading to the gym.  You know that, right?",neutral,Charlie,46,False,neutral
+Charlie_817,I hope you're proud of yourself.  Please.,passive_aggressive,Charlie,41,False,negative
+David_818,Don’t blame me for what happens next.,threat,David,37,True,negative
+Henry_819,Fine. Do whatever you want.,passive_aggressive,Henry,27,False,negative
+David_820,You made me act this way.,blame_shifting,David,25,False,negative
+Eve_821,"I've sacrificed so much, and you don't even care.  Okay?",guilt_trip,Eve,56,False,negative
+Grace_822,"What time will you be home?  You know that, right?",neutral,Grace,50,False,neutral
+Eve_823,"If you hadn’t done that, I wouldn’t be like this.  Okay?",blame_shifting,Eve,56,False,negative
+Jack_824,You'll regret this.  Okay?,threat,Jack,26,True,negative
+Charlie_825,You never appreciate anything I do.  Please.,guilt_trip,Charlie,44,False,negative
+Henry_826,Whatever. It’s your life.  Okay?,passive_aggressive,Henry,32,False,negative
+Ivy_827,How was your day?  Just saying.,neutral,Ivy,31,False,neutral
+Charlie_828,"I've sacrificed so much, and you don't even care.  Okay?",guilt_trip,Charlie,56,False,negative
+Frank_829,I’m heading to the gym.  Just saying.,neutral,Frank,37,False,neutral
+Eve_830,"Don’t blame me for what happens next.  You know that, right?",threat,Eve,60,True,negative
+Ivy_831,"You always overreact.  You know that, right?",gaslighting,Ivy,44,False,negative
+Eve_832,"If you leave me, I’ll hurt myself.  Please.",threat,Eve,43,True,negative
+Eve_833,*ignores messages*  Just saying.,silent_treatment,Eve,32,False,negative
+Ivy_834,That never happened. You're imagining things.,gaslighting,Ivy,45,False,negative
+Grace_835,"If you leave me, I’ll hurt myself.  Just saying.",threat,Grace,48,True,negative
+Jack_836,Fine. Do whatever you want.  Just saying.,passive_aggressive,Jack,41,False,negative
+Grace_837,How was your day?  Please.,neutral,Grace,26,False,neutral
+Eve_838,"You're always starting fights.  You know that, right?",blame_shifting,Eve,53,False,negative
+Eve_839,"After everything I did for you, this is how you repay me?  Please.",guilt_trip,Eve,66,False,negative
+Ivy_840,"Don't talk to me.  You know that, right?",silent_treatment,Ivy,40,False,negative
+Ivy_841,You’re too sensitive.  Please.,gaslighting,Ivy,30,False,negative
+Charlie_842,You'll be sorry you ever left.  Please.,threat,Charlie,39,True,negative
+Ivy_843,"...  You know that, right?",silent_treatment,Ivy,26,False,negative
+Henry_844,*ignores messages*,silent_treatment,Henry,18,False,negative
+Charlie_845,You're always starting fights.,blame_shifting,Charlie,30,False,negative
+Jack_846,How was your day?  Please.,neutral,Jack,26,False,neutral
+David_847,"I guess I just don't matter to you anymore.  You know that, right?",guilt_trip,David,66,False,negative
+Eve_848,"After everything I did for you, this is how you repay me?  Okay?",guilt_trip,Eve,64,False,negative
+Bob_849,You think you can survive without me?  Just saying.,threat,Bob,51,False,negative
+Alice_850,You remember it wrong.,gaslighting,Alice,22,False,negative
+Ivy_851,"If you hadn’t done that, I wouldn’t be like this.",blame_shifting,Ivy,49,False,negative
+Frank_852,I guess I just don't matter to you anymore.  Okay?,guilt_trip,Frank,50,False,negative
+Charlie_853,It’s always your fault.,blame_shifting,Charlie,23,False,negative
+Ivy_854,Don't talk to me.,silent_treatment,Ivy,17,False,negative
+Alice_855,"I guess I just don't matter to you anymore.  You know that, right?",guilt_trip,Alice,66,False,negative
+Alice_856,"Thanks for remembering I exist.  You know that, right?",passive_aggressive,Alice,54,False,negative
+David_857,"You made me act this way.  You know that, right?",blame_shifting,David,48,False,negative
+Bob_858,Fine. Do whatever you want.  Please.,passive_aggressive,Bob,36,False,negative
+Eve_859,You’re too sensitive.  Okay?,gaslighting,Eve,28,False,negative
+Ivy_860,"Sure, I’m not upset. Why would I be?",passive_aggressive,Ivy,36,False,negative
+Eve_861,Nothing. I’m fine.  Okay?,silent_treatment,Eve,25,False,negative
+Eve_862,"That never happened. You're imagining things.  You know that, right?",gaslighting,Eve,68,False,negative
+Alice_863,It’s always your fault.  Just saying.,blame_shifting,Alice,37,False,negative
+David_864,You're always starting fights.  Okay?,blame_shifting,David,37,False,negative
+Charlie_865,Whatever. It’s your life.  Just saying.,passive_aggressive,Charlie,39,False,negative
+Jack_866,"You think you can survive without me?  You know that, right?",threat,Jack,60,False,negative
+David_867,"Sure, I’m not upset. Why would I be?",passive_aggressive,David,36,False,negative
+Eve_868,Let’s go out for dinner.  Just saying.,neutral,Eve,38,False,neutral
+Eve_869,"If you leave me, I’ll hurt myself.",threat,Eve,34,True,negative
+Henry_870,"After everything I did for you, this is how you repay me?",guilt_trip,Henry,57,False,negative
+Henry_871,I guess I just don't matter to you anymore.  Please.,guilt_trip,Henry,52,False,negative
+Charlie_872,You think you can survive without me?  Please.,threat,Charlie,46,False,negative
+Henry_873,I never said that. You’re making it up.  Just saying.,gaslighting,Henry,53,False,negative
+Jack_874,You made me act this way.  Please.,blame_shifting,Jack,34,False,negative
+Eve_875,What time will you be home?  Just saying.,neutral,Eve,41,False,neutral
+Bob_876,I guess I just don't matter to you anymore.  Okay?,guilt_trip,Bob,50,False,negative
+Bob_877,"If you hadn’t done that, I wouldn’t be like this.  Okay?",blame_shifting,Bob,56,False,negative
+Charlie_878,"I don’t feel like talking.  You know that, right?",silent_treatment,Charlie,49,False,negative
+David_879,I don’t feel like talking.,silent_treatment,David,26,False,negative
+Grace_880,"I always put you first, and this is what I get?  Just saying.",guilt_trip,Grace,61,False,negative
+Frank_881,Don't talk to me.  Just saying.,silent_treatment,Frank,31,False,negative
+Frank_882,"I never said that. You’re making it up.  You know that, right?",gaslighting,Frank,62,False,negative
+Henry_883,I guess I just don't matter to you anymore.  Okay?,guilt_trip,Henry,50,False,negative
+Bob_884,It’s always your fault.  Okay?,blame_shifting,Bob,30,False,negative
+Bob_885,"I always put you first, and this is what I get?  Okay?",guilt_trip,Bob,54,False,negative
+Frank_886,...  Please.,silent_treatment,Frank,12,False,negative
+Grace_887,You're always starting fights.  Just saying.,blame_shifting,Grace,44,False,negative
+Charlie_888,You’re the reason everything is ruined.  Okay?,blame_shifting,Charlie,46,False,negative
+Alice_889,"You think you can survive without me?  You know that, right?",threat,Alice,60,False,negative
+Charlie_890,You'll regret this.  Just saying.,threat,Charlie,33,True,negative
+Charlie_891,"You think you can survive without me?  You know that, right?",threat,Charlie,60,False,negative
+Henry_892,"I don’t feel like talking.  You know that, right?",silent_treatment,Henry,49,False,negative
+Alice_893,"I've sacrificed so much, and you don't even care.  Please.",guilt_trip,Alice,58,False,negative
+Bob_894,"Fine. Do whatever you want.  You know that, right?",passive_aggressive,Bob,50,False,negative
+Eve_895,You’re the reason everything is ruined.  Just saying.,blame_shifting,Eve,53,False,negative
+Jack_896,Nothing. I’m fine.,silent_treatment,Jack,18,False,negative
+Bob_897,"If you leave me, I’ll hurt myself.  Okay?",threat,Bob,41,True,negative
+Charlie_898,Don’t blame me for what happens next.,threat,Charlie,37,True,negative
+Ivy_899,You’re too sensitive.  Just saying.,gaslighting,Ivy,35,False,negative
+Bob_900,Whatever. It’s your life.  Just saying.,passive_aggressive,Bob,39,False,negative
+Charlie_901,I’m heading to the gym.  Just saying.,neutral,Charlie,37,False,neutral
+David_902,You’re the reason everything is ruined.  Please.,blame_shifting,David,48,False,negative
+Frank_903,That never happened. You're imagining things.  Just saying.,gaslighting,Frank,59,False,negative
+Eve_904,Nothing. I’m fine.  Okay?,silent_treatment,Eve,25,False,negative
+Grace_905,"If you hadn’t done that, I wouldn’t be like this.",blame_shifting,Grace,49,False,negative
+Charlie_906,You'll regret this.  Just saying.,threat,Charlie,33,True,negative
+Ivy_907,I don’t feel like talking.  Just saying.,silent_treatment,Ivy,40,False,negative
+Charlie_908,"I don’t feel like talking.  You know that, right?",silent_treatment,Charlie,49,False,negative
+Alice_909,"Fine. Do whatever you want.  You know that, right?",passive_aggressive,Alice,50,False,negative
+David_910,You remember it wrong.  Just saying.,gaslighting,David,36,False,negative
+Jack_911,You remember it wrong.  Okay?,gaslighting,Jack,29,False,negative
+Eve_912,You'll regret this.  Just saying.,threat,Eve,33,True,negative
+Frank_913,"After everything I did for you, this is how you repay me?  You know that, right?",guilt_trip,Frank,80,False,negative
+Charlie_914,"I always put you first, and this is what I get?",guilt_trip,Charlie,47,False,negative
+Ivy_915,You remember it wrong.  Please.,gaslighting,Ivy,31,False,negative
+David_916,You’re the reason everything is ruined.,blame_shifting,David,39,False,negative
+Ivy_917,I guess I just don't matter to you anymore.,guilt_trip,Ivy,43,False,negative
+David_918,I’m heading to the gym.,neutral,David,23,False,neutral
+David_919,I don’t feel like talking.  Please.,silent_treatment,David,35,False,negative
+Alice_920,You always overreact.  Okay?,gaslighting,Alice,28,False,negative
+Bob_921,You'll regret this.,threat,Bob,19,True,negative
+David_922,You remember it wrong.  Okay?,gaslighting,David,29,False,negative
+Bob_923,"If you hadn’t done that, I wouldn’t be like this.  You know that, right?",blame_shifting,Bob,72,False,negative
+Charlie_924,I don’t feel like talking.  Okay?,silent_treatment,Charlie,33,False,negative
+Ivy_925,"I guess I just don't matter to you anymore.  You know that, right?",guilt_trip,Ivy,66,False,negative
+David_926,What time will you be home?  Just saying.,neutral,David,41,False,neutral
+Eve_927,I never said that. You’re making it up.  Just saying.,gaslighting,Eve,53,False,negative
+Bob_928,*ignores messages*  Please.,silent_treatment,Bob,27,False,negative
+Alice_929,You're always starting fights.  Please.,blame_shifting,Alice,39,False,negative
+Jack_930,"Sure, I’m not upset. Why would I be?  Please.",passive_aggressive,Jack,45,False,negative
+Grace_931,Fine. Do whatever you want.  Please.,passive_aggressive,Grace,36,False,negative
+David_932,You always overreact.  Okay?,gaslighting,David,28,False,negative
+David_933,You’re too sensitive.,gaslighting,David,21,False,negative
+Eve_934,"How was your day?  You know that, right?",neutral,Eve,40,False,neutral
+Charlie_935,You think you can survive without me?  Okay?,threat,Charlie,44,False,negative
+Bob_936,"If you leave me, I’ll hurt myself.",threat,Bob,34,True,negative
+Grace_937,"After everything I did for you, this is how you repay me?  You know that, right?",guilt_trip,Grace,80,False,negative
+Grace_938,"I've sacrificed so much, and you don't even care.  You know that, right?",guilt_trip,Grace,72,False,negative
+Eve_939,It’s always your fault.  Okay?,blame_shifting,Eve,30,False,negative
+Grace_940,"Good morning! Have a great day.  You know that, right?",neutral,Grace,54,False,neutral
+Bob_941,You'll be sorry you ever left.,threat,Bob,30,True,negative
+Ivy_942,Good morning! Have a great day.,neutral,Ivy,31,False,neutral
+Eve_943,"*ignores messages*  You know that, right?",silent_treatment,Eve,41,False,negative
+Charlie_944,"After everything I did for you, this is how you repay me?",guilt_trip,Charlie,57,False,negative
+Eve_945,*ignores messages*  Okay?,silent_treatment,Eve,25,False,negative
+Grace_946,It’s always your fault.  Please.,blame_shifting,Grace,32,False,negative
+Charlie_947,"I always put you first, and this is what I get?  Okay?",guilt_trip,Charlie,54,False,negative
+Ivy_948,Don’t blame me for what happens next.  Okay?,threat,Ivy,44,True,negative
+Jack_949,"I always put you first, and this is what I get?  Please.",guilt_trip,Jack,56,False,negative
+Grace_950,Nothing. I’m fine.  Please.,silent_treatment,Grace,27,False,negative
+Frank_951,I hope you're proud of yourself.  Please.,passive_aggressive,Frank,41,False,negative
+Bob_952,"You’re too sensitive.  You know that, right?",gaslighting,Bob,44,False,negative
+Eve_953,You never appreciate anything I do.  Just saying.,guilt_trip,Eve,49,False,negative
+Ivy_954,"I never said that. You’re making it up.  You know that, right?",gaslighting,Ivy,62,False,negative
+Bob_955,Thanks for remembering I exist.  Okay?,passive_aggressive,Bob,38,False,negative
+Henry_956,I don’t feel like talking.  Okay?,silent_treatment,Henry,33,False,negative
+Ivy_957,You remember it wrong.  Okay?,gaslighting,Ivy,29,False,negative
+Bob_958,You always overreact.  Please.,gaslighting,Bob,30,False,negative
+Eve_959,"If you leave me, I’ll hurt myself.  You know that, right?",threat,Eve,57,True,negative
+Alice_960,You remember it wrong.  Just saying.,gaslighting,Alice,36,False,negative
+Bob_961,"You think you can survive without me?  You know that, right?",threat,Bob,60,False,negative
+Eve_962,Don’t blame me for what happens next.  Okay?,threat,Eve,44,True,negative
+David_963,"If you hadn’t done that, I wouldn’t be like this.  Just saying.",blame_shifting,David,63,False,negative
+Grace_964,"Nothing. I’m fine.  You know that, right?",silent_treatment,Grace,41,False,negative
+Grace_965,Don't talk to me.,silent_treatment,Grace,17,False,negative
+Frank_966,I hope you're proud of yourself.  Please.,passive_aggressive,Frank,41,False,negative
+Jack_967,I never said that. You’re making it up.  Please.,gaslighting,Jack,48,False,negative
+David_968,"That never happened. You're imagining things.  You know that, right?",gaslighting,David,68,False,negative
+Henry_969,You always overreact.,gaslighting,Henry,21,False,negative
+Charlie_970,...  Please.,silent_treatment,Charlie,12,False,negative
+David_971,Nothing. I’m fine.  Okay?,silent_treatment,David,25,False,negative
+Frank_972,Don’t blame me for what happens next.,threat,Frank,37,True,negative
+David_973,Whatever. It’s your life.  Just saying.,passive_aggressive,David,39,False,negative
+Ivy_974,"After everything I did for you, this is how you repay me?",guilt_trip,Ivy,57,False,negative
+Bob_975,Fine. Do whatever you want.  Please.,passive_aggressive,Bob,36,False,negative
+Frank_976,"Sure, I’m not upset. Why would I be?  Okay?",passive_aggressive,Frank,43,False,negative
+David_977,"If you leave me, I’ll hurt myself.  Okay?",threat,David,41,True,negative
+Frank_978,"Don’t blame me for what happens next.  You know that, right?",threat,Frank,60,True,negative
+Alice_979,"I always put you first, and this is what I get?  Okay?",guilt_trip,Alice,54,False,negative
+Bob_980,Nothing. I’m fine.  Just saying.,silent_treatment,Bob,32,False,negative
+David_981,How was your day?  Just saying.,neutral,David,31,False,neutral
+Ivy_982,"I've sacrificed so much, and you don't even care.  Just saying.",guilt_trip,Ivy,63,False,negative
+Bob_983,"It’s always your fault.  You know that, right?",blame_shifting,Bob,46,False,negative
+Henry_984,"Whatever. It’s your life.  You know that, right?",passive_aggressive,Henry,48,False,negative
+David_985,"Sure, I’m not upset. Why would I be?",passive_aggressive,David,36,False,negative
+Eve_986,That never happened. You're imagining things.  Okay?,gaslighting,Eve,52,False,negative
+Charlie_987,I guess I just don't matter to you anymore.  Please.,guilt_trip,Charlie,52,False,negative
+Charlie_988,You think you can survive without me?  Just saying.,threat,Charlie,51,False,negative
+Frank_989,"You’re too sensitive.  You know that, right?",gaslighting,Frank,44,False,negative
+Frank_990,"Sure, I’m not upset. Why would I be?  Okay?",passive_aggressive,Frank,43,False,negative
+Henry_991,I never said that. You’re making it up.,gaslighting,Henry,39,False,negative
+Alice_992,"It’s always your fault.  You know that, right?",blame_shifting,Alice,46,False,negative
+Henry_993,Whatever. It’s your life.  Okay?,passive_aggressive,Henry,32,False,negative
+Frank_994,"*ignores messages*  You know that, right?",silent_treatment,Frank,41,False,negative
+Grace_995,You made me act this way.  Please.,blame_shifting,Grace,34,False,negative
+Frank_996,"If you hadn’t done that, I wouldn’t be like this.  Just saying.",blame_shifting,Frank,63,False,negative
+Eve_997,Fine. Do whatever you want.  Okay?,passive_aggressive,Eve,34,False,negative
+Bob_998,Good morning! Have a great day.,neutral,Bob,31,False,neutral
+Bob_999,Good morning! Have a great day.,neutral,Bob,31,False,neutral
